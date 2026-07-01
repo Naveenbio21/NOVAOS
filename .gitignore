@@ -1,0 +1,8 @@
+# Ignore databases and model files
+*.db
+models/
+
+# Ignore Python caches and IDE settings
+__pycache__/
+.idea/
+*.wav
